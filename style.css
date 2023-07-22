@@ -100,7 +100,7 @@ nav.sticky .navbar .logo a {
   color: #3889cb;
 }
 .home .text-two {
-  color: #3df8eb;
+  color: black;
   font-size: 75px;
   font-weight: 600;
   margin-left: -3px;
@@ -108,7 +108,7 @@ nav.sticky .navbar .logo a {
 .home .text-three {
   font-size: 40px;
   margin: 5px 0;
-  color: #000000;
+  color: black;
 }
 .home .text-four {
   font-size: 23px;
